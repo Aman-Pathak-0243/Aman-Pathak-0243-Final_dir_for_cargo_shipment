@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/Aman-Pathak-0243/cargo-shipment-tracker-backend.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/Aman-Pathak-0243/cargo-shipment-tracker-frontend.git
